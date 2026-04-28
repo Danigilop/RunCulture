@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Цветовая схема RunCulture: охры, терракота, зелёный, золотистый -->
+    <color name="ochre_light">#FFE8C5A3</color>
+    <color name="ochre">#FFD4A574</color>
+    <color name="ochre_dark">#FFB8864F</color>
+    
+    <color name="terracotta_light">#FFE07A5F</color>
+    <color name="terracotta">#FFC85A3F</color>
+    <color name="terracotta_dark">#FFA8422F</color>
+    
+    <color name="green_light">#FF8FBC8F</color>
+    <color name="green">#FF6B9E6B</color>
+    <color name="green_dark">#FF4F7A4F</color>
+    
+    <color name="gold_light">#FFFFD700</color>
+    <color name="gold">#FFFFB800</color>
+    <color name="gold_dark">#FFCC9000</color>
+    
+    <!-- Primary colors -->
+    <color name="primary">@color/ochre</color>
+    <color name="primary_dark">@color/ochre_dark</color>
+    <color name="primary_light">@color/ochre_light</color>
+    
+    <!-- Secondary colors -->
+    <color name="secondary">@color/terracotta</color>
+    <color name="secondary_dark">@color/terracotta_dark</color>
+    
+    <!-- Accent colors -->
+    <color name="accent">@color/gold</color>
+    <color name="accent_dark">@color/gold_dark</color>
+    
+    <!-- Background colors -->
+    <color name="background_light">#FFF5F0E8</color>
+    <color name="background">#FFEDE5D6</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#FF2C2C2C</color>
+    <color name="text_secondary">#FF666666</color>
+    <color name="text_hint">#FF999999</color>
+</resources>
